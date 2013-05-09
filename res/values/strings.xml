@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kannada Kali</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_learn">LearnActivity</string>
+    <string name="title_activity_word_meaning_context">WordMeaningContext</string>
+    <string name="title_activity_kan_words_test">Test Your Knowledge</string>
+
+</resources>
