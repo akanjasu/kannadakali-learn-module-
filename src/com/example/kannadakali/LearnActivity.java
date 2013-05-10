@@ -180,8 +180,10 @@ private Button nxt;
 			 db.close();
 		  }
 		 else
-			 tv.setText("All words learnt");
+		 {
+		 tv.setText("All words learnt");
 		 lv.setAdapter(null);
+		 }
 	}
 
 
